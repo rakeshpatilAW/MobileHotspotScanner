@@ -13,7 +13,7 @@ A simple React Native app to manage and scan for connected devices on a mobile h
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/hotspot-scanner-app.git
+    git clone https://github.com/rakeshpatilAW/MobileHotspotScanner.git
     cd hotspot-scanner-app
     ```
 
